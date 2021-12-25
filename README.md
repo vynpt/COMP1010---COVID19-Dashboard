@@ -1,10 +1,11 @@
-# COMP1010---A live dashboard for COVID-19 spread analysis
+## COMP1010---A live dashboard for COVID-19 spread analysis
+
 
 #Team members:
-  Nguyen Phuong Thao Vy - 20vy.npt@vinuni.edu.vn
-	Vu Duy Tung - 21tung.vd@vinuni.edu.vn
-	Chau Minh Khai - 21khai.cm@vinuni.edu.vn
-	Ta Viet Thang - 21thang.tv@vinuni.edu.vn
+#Nguyen Phuong Thao Vy - 20vy.npt@vinuni.edu.vn
+#Vu Duy Tung - 21tung.vd@vinuni.edu.vn
+#Chau Minh Khai - 21khai.cm@vinuni.edu.vn
+#Ta Viet Thang - 21thang.tv@vinuni.edu.vn
   
 COVID-19 is spreading across the world and is changing the world. The coronavirus pandemic is far from over and leaving severe challenges to many countries, including Vietnam with a population of nearly 100 million. As such, all Vietnamese people are in need of more statistics and analysis about the COVID-19 counts to get updates on the surrounding their lives.
  
