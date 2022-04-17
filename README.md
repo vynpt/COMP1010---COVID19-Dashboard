@@ -1,4 +1,4 @@
-## COMP1010---A live dashboard for COVID-19 spread analysis
+## Live dashboard for COVID-19 spread analysis
 
 
 Team members: Nguyen Phuong Thao Vy, Vu Duy Tung, Chau Minh Khai, Ta Viet Thang
